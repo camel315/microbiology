@@ -1,4 +1,4 @@
-## python script to get organims names from organism names from genbank file
+## python script to get organims names from genbank file
 ## Sizhong Yang, 2015-3-17
 
 ## Part 1, Example to get organism names from genbank file
